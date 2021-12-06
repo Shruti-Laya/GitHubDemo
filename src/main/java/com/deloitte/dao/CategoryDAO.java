@@ -2,14 +2,6 @@
  * This is the demo we are giving for github
  */
 
-<<<<<<< HEAD
-=======
-/*
- * 
- * this is for develop demo
- */
-
->>>>>>> 6799cab8dc0ac01c027cc3856ae016cdf5ba4de0
 package com.deloitte.dao;
 
 import java.util.ArrayList;
